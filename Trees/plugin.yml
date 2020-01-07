@@ -1,0 +1,9 @@
+name: Trees
+version: 1.0
+main: trees.tafoya.Main
+author: Zackery Tafoya
+api-version: 1.14
+commands:
+    planttrees:
+        description: Plants trees on every fourth grass block within a radius of x chunks
+        usage: /planttrees {radius in chunks}
